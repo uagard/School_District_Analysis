@@ -10,6 +10,9 @@ A comparison operator is used to retrieve all the rows with Thomas High School i
 
 ![image](https://user-images.githubusercontent.com/102105537/163749909-4a76ea71-ba2b-4940-bbf3-861a07e57a84.png)
 
+![image](https://user-images.githubusercontent.com/102105537/163749991-36dc3296-44f7-42ad-aa65-fdf9a18dca36.png)
+
+
 Deliverable 2
 
 The District summary: Recalculated total student count by subtracting the number of ninth-grade students in Thomas High School from the total student count, then recalulated the passing math and passing reading percentages and overall passing percentage.
