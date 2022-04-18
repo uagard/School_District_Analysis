@@ -8,9 +8,7 @@ We will utilize the (loc) method in order to select all the reading and math sco
 
 A comparison operator is used to retrieve all the rows with Thomas High School in the "school_name" column of the student_data_df A comparison operator is used to retrieve all the rows with the ninth grade in the "grade" column of the student_data_df Logical and comparison operators are used to retrieve all the rows with the "reading_score" column for Thomas High School ninth graders from the student_data_df Logical and comparison operators are used to retrieve all the rows with the "math_score" column for Thomas High School ninth graders from the student_data_df The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs
 
-First Deliverable
-
-First Deliverable_2
+![image](https://user-images.githubusercontent.com/102105537/163749909-4a76ea71-ba2b-4940-bbf3-861a07e57a84.png)
 
 Deliverable 2
 
